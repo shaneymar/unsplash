@@ -7,7 +7,7 @@ import ImageList from './ImageList';
 const Home = () => {
   return (
     <div>
-      <Header title="Unsplash" />
+      <Header />
       <Search />
       <ImageList />
     </div>
